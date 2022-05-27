@@ -112,6 +112,50 @@ footer{
 
 
 }
+.resolucion{ 
+    width: 99%;
+    text-align: center;
+
+}
+@media (max-width:767px){ 
+    .desktop{ 
+        display: none;
+
+    }
+    .tanlet{ 
+        display: none;
+    }
+    .movil{ 
+        display: none;
+    }
+
+}
+@media (min-width:768px) and (max-widht: 990px){ 
+    .desktop{ 
+        display: none;
+    }
+    .tanlet{ 
+        display: none;
+    }
+    .movil{ 
+        display: none;
+    }
+}
+
+
+@media (max-width:991px){ 
+    .desktop{ 
+        display: none;
+    }
+    .tanlet{ 
+        display: none;
+    }
+    .movil{ 
+        display: none;
+    }
+}
+
+
 
 
 
